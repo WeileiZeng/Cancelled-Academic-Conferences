@@ -36,7 +36,7 @@ with open('_data/conferences.yml','w') as ymlfile:
                  del row[k]
              else:
                item[k[:5]]=v
-             print(k)
+             #print(k)
 
 
          keys=['Acade','Annou','Dates','Locat','Notes']

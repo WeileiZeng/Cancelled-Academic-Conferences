@@ -25,9 +25,7 @@ jobs:
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        result =`git status`
-        if $result On branch master Your branch is up to date with 'origin/master'. nothing to commit, working tree clean
+        git config --local user.name "GitHub Action"        
         try {
           git commit -m "Action: download and update information" -a
         } catch {

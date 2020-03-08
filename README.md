@@ -5,7 +5,6 @@ Please visit the [About](https://weileizeng.github.io/Cancelled-Academic-Confere
 
 ![sync updates from google sheet](https://github.com/WeileiZeng/Cancelled-Academic-Conferences/workflows/sync%20updates%20from%20google%20sheet/badge.svg)
 
-![sync updates from google sheet](https://github.com/WeileiZeng/Cancelled-Academic-Conferences/workflows/sync%20updates%20from%20google%20sheet/badge.svg?branch=master&event=push)
 
 Website update log
 * online on Mar 8, 2020

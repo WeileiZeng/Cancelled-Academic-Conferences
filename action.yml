@@ -1,0 +1,32 @@
+name: sync google sheet
+author: Weilei Zeng
+description: This is the website showing data in a google sheet. The sheet is updated by many people at anytime. So this action will sync every 10 minute, update content in the google sheet to yaml file in _data. The latter, in a defined format, will be load automatically by github page and be visible online.
+name: sync updates from google sheet
+
+on: 
+  schedule:
+    - cron: '*/10 * * * *'
+      
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Regenerating content. The commit would fail if nothing changes
+      run: |
+        echo this is a simple workflow which will run automatically upon each push.
+        pip3 install PyYAML
+        ./download.sh
+
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Action: download and update information" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

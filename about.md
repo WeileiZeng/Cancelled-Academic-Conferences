@@ -23,4 +23,6 @@ title: About
 
   * Teaching continuity ideas: [bit.ly/rtresourcelist](https://bit.ly/rtresourcelist)
 
-  * [stayinghome.club](https://stayinghome.club/) Who’s staying home because of COVID-19? This is the running list of what in tech has been affected by COVID-19. 
+  * [stayinghome.club](https://stayinghome.club/) Who’s staying home because of COVID-19? This is the running list of what in tech has been affected by COVID-19.
+
+ * [security conferences canceled](https://www.zdnet.com/article/a-list-of-security-conferences-canceled-or-postponed-due-to-coronavirus-concerns/)

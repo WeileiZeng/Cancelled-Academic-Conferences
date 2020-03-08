@@ -1,6 +1,8 @@
 name: sync updates from google sheet
 
-on: [push]
+on: 
+  schedule:
+    - cron: 0 */1 * * *
 
 jobs:
   build:

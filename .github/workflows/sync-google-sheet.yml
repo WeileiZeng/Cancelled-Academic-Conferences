@@ -1,6 +1,5 @@
 name: sync updates from google sheet
-author: Weilei Zeng
-description: This is the website showing data in a google sheet. The sheet is updated by many people at anytime. So this action will sync every 10 minute, update content in the google sheet to yaml file in _data. The latter, in a defined format, will be load automatically by github page and be visible online.
+
 
 on: 
   schedule:

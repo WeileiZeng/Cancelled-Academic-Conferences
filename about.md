@@ -22,3 +22,5 @@ title: About
   * [Institutional responses](https://docs.google.com/spreadsheets/d/1ocFaNisYzYF7Tc8eHi9wbw_WHyAan29KjcnHtvHiQZE/edit?usp=sharing)
 
   * Teaching continuity ideas: [bit.ly/rtresourcelist](https://bit.ly/rtresourcelist)
+
+  * [stayinghome.club](https://stayinghome.club/) Who’s staying home because of COVID-19? This is the running list of what in tech has been affected by COVID-19. 

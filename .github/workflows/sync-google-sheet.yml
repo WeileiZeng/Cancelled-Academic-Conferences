@@ -2,8 +2,8 @@ name: sync updates from google sheet
 
 on: 
   schedule:
-    - cron: /10 * * * *
-
+    - cron: '*/10 * * * *'
+      
 jobs:
   build:
 

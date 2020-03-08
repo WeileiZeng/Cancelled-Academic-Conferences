@@ -13,3 +13,5 @@ Website update log
 TODO:
 - [ ] verify links
 - [ ] add color to sort dates
+
+This project is submitted to [github action hackathon](https://githubhackathon.com/)

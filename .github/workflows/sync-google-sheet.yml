@@ -2,6 +2,8 @@ name: sync updates from google sheet
 
 
 on: 
+  push:
+    branches: master
   schedule:
     - cron: '*/10 * * * *'
       
@@ -16,6 +18,7 @@ jobs:
     - name: Regenerating content. The commit would fail if nothing changes
       run: |
         echo this is a simple workflow which will run automatically upon each push.
+        pip3 install --upgrade setuptools
         pip3 install pyyaml
         ./download.sh
 

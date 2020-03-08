@@ -8,7 +8,7 @@ title: About
 * Coordinated by [Anne Marie Gruber](https://library.uni.edu/about-us/staff-directory/anne-marie-gruber), Assistant Professor of Library Services, University of Northern Iowa
   * email:	anne.gruber@uni.edu
   * Twitter:	[@amhgruber](https://twitter.com/amhgruber)
-* Web support by [Weilei Zeng](https://weileizeng.com)
+* Web support by [Weilei Zeng](https://weileizeng.com) PhD student at UC Riverside
 
 * Rationale:
   * Why track cancelled/postponed academic conferences? As an academic librarian, it's my job to help students, faculty, staff, and the public find the information they need in any form. I realized when conference cancellations started happening that someone, at some point, might find a list of them helpful. Knowing it would be easier to gather information as it happens rather than recreate it later, I threw this spreadsheet together & tweeted it out. Uses in the future could include economic and sustainability research, or potentially lots of areas I haven't even considered yet!

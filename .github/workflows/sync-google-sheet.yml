@@ -2,8 +2,8 @@ name: sync updates from google sheet
 
 
 on: 
-  push:
-    branches: master
+  #push:
+  #  branches: master
   schedule:
     - cron: '*/10 * * * *'
       

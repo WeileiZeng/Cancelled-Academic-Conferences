@@ -1,13 +1,13 @@
-- Acade: AORN Global Surgical Conference & Expo
-  Annou: https://www.aorn.org/surgicalexpo
-  Dates: March 28-April 1, 2020
-  Locat: Anaheim, CA, USA
-  Notes: Cancelled
 - Acade: Cal Teach Conference
   Annou: '?'
   Dates: '?'
   Locat: '?'
   Notes: '?'
+- Acade: AORN Global Surgical Conference & Expo
+  Annou: https://www.aorn.org/surgicalexpo
+  Dates: March 28-April 1, 2020
+  Locat: Anaheim, CA, USA
+  Notes: Cancelled
 - Acade: Society of Toxicology 2020 National Meeting
   Annou: https://www.toxicology.org/events/am/AM2020/index.asp
   Dates: 14-19 March, 2020
@@ -588,11 +588,11 @@
   Dates: March 25-27, 2020
   Locat: Washington, DC, USA
   Notes: Cancelled
-- Acade: ASPPH (schools of public health)
-  Annou: https://www.aspph.org/event/2020annualmeeting/
-  Dates: March 18-20, 2020
-  Locat: Washington, DC, USA (Arlington, VA)
-  Notes: Cancelled
+- Acade: ''
+  Annou: ''
+  Dates: ''
+  Locat: ''
+  Notes: ''
 - Acade: Coalition for Academic Scientific Computation semi-annual meeting
   Annou: https://casc.org/events/EventDetails.aspx?id=1295970&group=
   Dates: April 1-3, 2020
@@ -624,6 +624,11 @@
   Locat: Washington, DC, USA
   Notes: 'Physical conference is cancelled, it will now be a virtual conference. Not
     all presentations will be made virtual though, just some. '
+- Acade: ASPPH (schools of public health)
+  Annou: https://www.aspph.org/event/2020annualmeeting/
+  Dates: March 18-20, 2020
+  Locat: Washington, DC, USA (Arlington, VA)
+  Notes: Cancelled
 - Acade: The 51st Lunar and Planetary Science Conference
   Annou: https://www.hou.usra.edu/meetings/lpsc2020/
   Dates: March 16-20, 2020

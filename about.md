@@ -3,7 +3,7 @@ title: About
 ---
 {% include navigation.md %}
 
-* Short Link of google sheet:  [bit.ly/cancelledcons](https://bit.ly/cancelledcons) for information submission. The web will sync every 10 mins
+* Short Link of google sheet:  [bit.ly/cancelledcons](https://bit.ly/cancelledcons) for information submission. The web will sync every 10 mins. Status: ![sync updates from google sheet](https://github.com/WeileiZeng/Cancelled-Academic-Conferences/workflows/sync%20updates%20from%20google%20sheet/badge.svg)
 
 * Coordinated by [Anne Marie Gruber](https://library.uni.edu/about-us/staff-directory/anne-marie-gruber), Assistant Professor of Library Services, University of Northern Iowa
   * email:	anne.gruber@uni.edu

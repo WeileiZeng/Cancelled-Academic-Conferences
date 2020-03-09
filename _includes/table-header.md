@@ -1,0 +1,1 @@
+| [Academic_Conference_Name](#Acade)  | [Dates](#Dates)  | [Location](#Locat) | [Notes](#Notes) |

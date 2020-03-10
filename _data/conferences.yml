@@ -164,11 +164,6 @@
   Dates: May 11-15, 2020
   Locat: Daegu, South Korea
   Notes: Postponed to September 21-25, 2020
-- Acade: ''
-  Annou: ''
-  Dates: ''
-  Locat: ''
-  Notes: ''
 - Acade: International Geological Congress (IGC)
   Annou: https://www.36igc.org/
   Dates: March 11-14, 2020
@@ -304,7 +299,7 @@
   Notes: Held online on the same dates. ~15 attendees
 - Acade: Maize Genetics Meeting
   Annou: https://www.maizegdb.org/maize_meeting/2020/
-  Dates: March 12-15
+  Dates: March 12-15, 2020
   Locat: Kailua Kona, HI, USA
   Notes: Cancelled
 - Acade: 'Hate Speech: What It Is and How It Works'
@@ -643,8 +638,8 @@
   Notes: Cancelled
 - Acade: '*Keystone Symposia '
   Annou: https://keystonesymposia.org/ks/Online/Important_Information_About_the_Coronavirus.aspx?_ga=2.222164952.133882939.1583539873-270036772.1583539873
-  Dates: Various
-  Locat: Various
+  Dates: '*Various'
+  Locat: '*Various'
   Notes: Cancelled
 - Acade: 'ES Summit: Therapeutic Milestones in Parkinson''s Disease'
   Annou: https://www.essummit.org/TherapeuticmilestonesinPD.htm
@@ -667,6 +662,12 @@
   Dates: March 11-15
   Locat: Vienna, Austria (ACV)
   Notes: "Postponed to July 15\u201319, 2020"
+- Acade: European Geosciences Union
+  Annou: https://www.egu2020.eu/
+  Dates: May 3-8, 2020
+  Locat: Vienna, Austria
+  Notes: 'Registration halted untill March 31st when a decision on the conference
+    will be made. '
 - Acade: 'American Association of Colleges of Osteopathic Medicine (AACOM) - Educating
     Leaders Conference '
   Annou: https://educatingleaders.aacom.org
@@ -745,3 +746,13 @@
   Dates: May 8, 2020
   Locat: Zagreb, Croatia
   Notes: Cancelled
+- Acade: Association for the Study of Nationalities
+  Annou: https://nationalities.org/news-archive/cancellation-of-the-2020-convention
+  Dates: May 7-9, 2020
+  Locat: 'New York, NY, USA '
+  Notes: Cancelled
+- Acade: 'Kitcherfest: A Conference in Honor of Philip Kitcher'
+  Annou: ''
+  Dates: May 1-2, 2020
+  Locat: 'New York, NY, USA '
+  Notes: ''

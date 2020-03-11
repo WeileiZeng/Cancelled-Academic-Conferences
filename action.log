@@ -3179,3 +3179,16 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 Wed Mar 11 10:16:39 UTC 2020
+-------- git status ---------
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   _data/conferences.yml
+	modified:   action.log
+	modified:   conferences.csv
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Mar 11 10:25:27 UTC 2020

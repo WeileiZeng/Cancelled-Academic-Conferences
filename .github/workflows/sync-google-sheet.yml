@@ -21,9 +21,9 @@ jobs:
         pip3 install --upgrade setuptools
         pip3 install pyyaml
         ./download.sh
-        #echo "-------- git status ---------" >> action.log
-        #git status >> action.log
-        #date >> action.log
+        echo "-------- git status ---------" >> action.log
+        git status >> action.log
+        date >> action.log
 
     - name: Commit files
       run: |

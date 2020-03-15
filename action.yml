@@ -3,10 +3,9 @@ author: Weilei Zeng
 description: This is the website showing data in a google sheet. The sheet is updated by many people at anytime. So this action will sync every 10 minute, update content in the google sheet to yaml file in _data. The latter, in a defined format, will be load automatically by github page and be visible online.
 
 
-
 on: 
-  push:
-    branches: master
+  #push:
+  #  branches: master
   schedule:
     - cron: '*/10 * * * *'
       
@@ -27,13 +26,11 @@ jobs:
         echo "-------- git status ---------" >> action.log
         git status >> action.log
         date >> action.log
-
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"        
         git commit -m "Action: download and update information" -a
-
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:

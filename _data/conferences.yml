@@ -3,17 +3,17 @@
   Dates: '*several'
   Locat: '*several'
   Notes: AI hosts many conferences, they will either be postponed or made virtual
+- Acade: '*Keystone Symposia '
+  Annou: https://keystonesymposia.org/ks/Online/Important_Information_About_the_Coronavirus.aspx?_ga=2.222164952.133882939.1583539873-270036772.1583539873
+  Dates: '*Various'
+  Locat: '*Various'
+  Notes: Cancelled
 - Acade: Gordon Research Conferences
   Annou: https://www.grc.org/coronavirus-impacted-conferences/
   Dates: '*Various'
   Locat: '*Various (Hong Kong, Italy, Spain, Switzerland, California and Texas) '
   Notes: Rescheduled meetings in Hong Kong, Italy, Spain, Switzerland, California
     and Texas through June 2020 to date/location TBD in 2022
-- Acade: '*Keystone Symposia '
-  Annou: https://keystonesymposia.org/ks/Online/Important_Information_About_the_Coronavirus.aspx?_ga=2.222164952.133882939.1583539873-270036772.1583539873
-  Dates: '*Various'
-  Locat: '*Various'
-  Notes: Cancelled
 - Acade: International Conference on (Re-) Emerging Infectious Diseases (ICREID2020)
   Annou: http://www.icreid.com
   Dates: March 18-20, 2020
@@ -55,11 +55,17 @@
   Dates: April 28-30, 2020
   Locat: Astoria, OR, USA
   Notes: Postponed, dates TBD
-- Acade: American College of Sports Medicine Health & Fitness Summit
-  Annou: http://www.acsm.org/attend-connect/covid-19
-  Dates: March 12-15, 2020
-  Locat: Atlanta, GA, USA
+- Acade: 'Annual meeting of the Agriculture, Food, and Human Values Society (AFHVS)
+    and the Association for the Study of Food and Society (ASFS). '
+  Annou: https://afhvs.wildapricot.org/2020-Conference
+  Dates: May 27-30, 2020
+  Locat: Athens, Georgia, USA
   Notes: Cancelled
+- Acade: American Association for Public Opinion Research
+  Annou: https://www.aapor.org/Conference-Events/Annual-Meeting/Letter-from-AAPOR-Executive-Council.aspx
+  Dates: May 14-17, 2020
+  Locat: Atlanta, GA, USA
+  Notes: in person cancelled, now planning a virtual conference
 - Acade: Entomological Society of America Joint Southeastern/Eastern Branch 2020 Meeting
   Annou: https://www.entsoc.org/esa-update-covid-19-and-branch-meetings
   Dates: March 29-April 1, 2020
@@ -70,11 +76,6 @@
   Dates: March 18-21, 2020
   Locat: Atlanta, GA, USA
   Notes: in person cancelled, hoping to move online
-- Acade: American Association for Public Opinion Research
-  Annou: https://www.aapor.org/Conference-Events/Annual-Meeting/Letter-from-AAPOR-Executive-Council.aspx
-  Dates: May 14-17, 2020
-  Locat: Atlanta, GA, USA
-  Notes: in person cancelled, now planning a virtual conference
 - Acade: American Association for Pediatric Ophthalmology & Strabismus
   Annou: https://aapos.org/meetings/annual-meeting
   Dates: "March 25\u201329, 2020"
@@ -86,16 +87,21 @@
   Dates: "March 26\u201328, 2020"
   Locat: Austin, TX, USA
   Notes: '"postponed", possibly until fall 2020 or spring 2021'
-- Acade: SXSW EDU (and SXSW)
-  Annou: https://www.sxsw.com/2020-event-update/
-  Dates: March 9-12 (EDU) & 13-20, 2020
-  Locat: Austin, TX, USA
-  Notes: 'Cancelled by City of Austin. SXSW exploring rescheduling and remote options. '
 - Acade: Society for American Archaeology
   Annou: https://www.saa.org/quick-nav/saa-media-room/saa-news/2020/03/12/saa-cancels-85th-annual-meeting
   Dates: April 22-26, 2020
   Locat: Austin, TX, USA
   Notes: Cancelled
+- Acade: Society for Industrial and Organizational Psychology (SIOP) Annual Conference
+  Annou: https://www.siop.org/Annual-Conference
+  Dates: 'April 23-25, 2020 '
+  Locat: Austin, TX, USA
+  Notes: Cancelled by City of Austin and Travis County
+- Acade: SXSW EDU (and SXSW)
+  Annou: https://www.sxsw.com/2020-event-update/
+  Dates: March 9-12 (EDU) & 13-20, 2020
+  Locat: Austin, TX, USA
+  Notes: 'Cancelled by City of Austin. SXSW exploring rescheduling and remote options. '
 - Acade: EBART (Evidence Based Assisted Reproductive Technologies)
   Annou: https://www.ebartcongress.com/
   Dates: March 25-27, 2020
@@ -147,11 +153,6 @@
   Dates: March 30-31, 2020
   Locat: Bethesda, MD, USA
   Notes: Converted to virtual 2-day meeting
-- Acade: Southern Section of American Society of Plant Biologists Annual Meeting
-  Annou: https://community.plantae.org/article/5472595044147922487/southern-section-meeting-has-been-canceled
-  Dates: March 14-16, 2020
-  Locat: Birmingham, AL, USA (U of Alabama. Birmingham)
-  Notes: cancelled
 - Acade: The UK Oncology Convention
   Annou: https://www.oncologyconvention.com/
   Dates: March 17-18, 2020
@@ -242,11 +243,6 @@
   Dates: May 13-15, 2020
   Locat: Calgary, Alberta
   Notes: Postponed, new date TBD
-- Acade: International Bagpipe Conference
-  Annou: https://www.internationalbagpipeorganisation.com/home/ibc-2020-cancelled-due-to-the-global-health-crisis
-  Dates: March 13-15, 2020
-  Locat: Cambridge, MA, USA
-  Notes: Cancelled
 - Acade: International Sea Turtle Symposium
   Annou: https://internationalseaturtlesociety.org/statement/
   Dates: March 14-20, 2020
@@ -339,41 +335,36 @@
   Dates: March 11-14, 2020
   Locat: Delhi, India
   Notes: Postponed to 11-14 November 2020
-- Acade: AACR Advances in Prostate Cancer Research
-  Annou: https://www.aacr.org/meeting/prostate-2020/
-  Dates: March 12-15, 2020
-  Locat: Denver, CO, USA
-  Notes: Postponed, new date TBD
-- Acade: Association of Schools & Programs of Public Health (ASPPH) Annual Meeting
-  Annou: https://www.aspph.org/event/2020annualmeeting/
-  Dates: March 28-31, 2020
-  Locat: Denver, CO, USA
-  Notes: Cancelled
-- Acade: Society for Cinema and Media Studies (SCMS) Conference
-  Annou: https://www.cmstudies.org/page/officialstatement
-  Dates: "April 1\u20135, 2020"
-  Locat: Denver, CO, USA
-  Notes: Cancelled
-- Acade: WiCys - Women in Cybersecurity
-  Annou: https://www.wicys.org/conference
-  Dates: March 12-14, 2020
-  Locat: Denver, CO, USA
-  Notes: Cancelled
 - Acade: American Association of Geographers Annual Meeting
   Annou: https://www2.aag.org/aagannualmeeting/
   Dates: April 6-10, 2020
   Locat: Denver, CO, USA
   Notes: Cancelled in person; virtual possible
+- Acade: Association of Schools & Programs of Public Health (ASPPH) Annual Meeting
+  Annou: https://www.aspph.org/event/2020annualmeeting/
+  Dates: March 28-31, 2020
+  Locat: Denver, CO, USA
+  Notes: Cancelled
 - Acade: Lunar Surface Science Workshop
   Annou: https://www.hou.usra.edu/meetings/lunarsurface2020/
   Dates: April 28-30, 2020
   Locat: Denver, CO, USA
   Notes: Postponed, new date TBD
+- Acade: Society for Cinema and Media Studies (SCMS) Conference
+  Annou: https://www.cmstudies.org/page/officialstatement
+  Dates: "April 1\u20135, 2020"
+  Locat: Denver, CO, USA
+  Notes: Cancelled
 - Acade: Society for Linguistic Anthropology
   Annou: https://twitter.com/soclinganth/status/1237060087874613248
   Dates: April 2-5, 2020
   Locat: Denver, CO, USA
   Notes: Postponed to September 24th
+- Acade: WiCys - Women in Cybersecurity
+  Annou: https://www.wicys.org/conference
+  Dates: March 12-14, 2020
+  Locat: Denver, CO, USA
+  Notes: Cancelled
 - Acade: Meeting on Language in Autism (MoLA)
   Annou: http://mola2020.org/urgent/
   Dates: March 12-14, 2020
@@ -394,16 +385,16 @@
   Dates: March 25-28, 2020
   Locat: Ellensburg, WA, USA
   Notes: Cancelled
-- Acade: Asteroids, Comets, Meteorites (ACM) Conference 2020
-  Annou: https://www.hou.usra.edu/meetings/acm2020/
-  Dates: June 14-19, 2020
-  Locat: Flagstaff, AZ, USA
-  Notes: Postponed, dates TBD
 - Acade: AGU Chapman meeting of Distributed Volcanism
   Annou: https://www.agu.org/Chapmans-Distributed-Volcanism
   Dates: March 15-19, 2020
   Locat: Flagstaff, AZ, USA
   Notes: Postponed until Fall
+- Acade: Asteroids, Comets, Meteorites (ACM) Conference 2020
+  Annou: https://www.hou.usra.edu/meetings/acm2020/
+  Dates: June 14-19, 2020
+  Locat: Flagstaff, AZ, USA
+  Notes: Postponed, dates TBD
 - Acade: 'Keystone Symposium: Transforming Vaccinology*'
   Annou: https://www.keystonesymposia.org/ks/Online/Events/2020L2/Details.aspx?EventKey=2020L2
   Dates: March 15-19, 2020
@@ -491,16 +482,16 @@
   Dates: April 1-4, 2020
   Locat: Houston, TX, USA (University of St. Thomas)
   Notes: Cancelled
-- Acade: Internet2 Global Summit
-  Annou: https://meetings.internet2.edu/2020-global-summit/update-coronavirus/
-  Dates: March 29-April 1, 2020
-  Locat: Indianapolis, IN, USA
-  Notes: Cancelled, possible virtual options
 - Acade: Higher Ed Summit 2020 - Salesforce.org
   Annou: https://www.salesforce.org/events/higher-ed-summit-2020/
   Dates: April 29-May 1, 2020
   Locat: Indianapolis, IN, USA
   Notes: now Virtual
+- Acade: Internet2 Global Summit
+  Annou: https://meetings.internet2.edu/2020-global-summit/update-coronavirus/
+  Dates: March 29-April 1, 2020
+  Locat: Indianapolis, IN, USA
+  Notes: Cancelled, possible virtual options
 - Acade: Association for Symbolic Logic Annual Meeting
   Annou: http://aslonline.org/meet/
   Dates: March 25-28, 2020
@@ -526,17 +517,6 @@
   Dates: April 8-10, 2020
   Locat: Jekyll Island, GA, USA
   Notes: postposed until October 2020
-- Acade: International Continental Scientific Drilling Program (ICDP) Science Advisory
-    Group Meeting
-  Annou: icdp-online.org
-  Dates: March 7-12, 2020
-  Locat: Jerasulem, Israel
-  Notes: Held online on the same dates. ~15 attendees
-- Acade: Maize Genetics Meeting
-  Annou: https://www.maizegdb.org/maize_meeting/2020/
-  Dates: March 12-15, 2020
-  Locat: Kailua Kona, HI, USA
-  Notes: Cancelled
 - Acade: 'Hate Speech: What It Is and How It Works'
   Annou: https://philevents.org/event/show/73986
   Dates: March 26-27, 2020
@@ -607,24 +587,9 @@
   Dates: May 14-16, 2020
   Locat: 'Lisbon, Portugal '
   Notes: Cancelled
-- Acade: 'American Psychosomatic Society '
-  Annou: Email; https://psychosomatic.org/meetings/annual-meeting-2020
-  Dates: March 11-14, 2020
-  Locat: Long Beach, CA, USA
-  Notes: 'Canceled '
 - Acade: American Association of Physical Anthropologists (AAPA)
   Annou: https://physanth.org/news/2232/
   Dates: April 14-18, 2020
-  Locat: Los Angeles, CA, USA
-  Notes: Cancelled
-- Acade: Association for Supervision and Curriculum Development (ASCD) - Empower20
-  Annou: http://empower.ascd.org/general-information/coronavirus-response-information.aspx
-  Dates: March 12-16, 2020
-  Locat: Los Angeles, CA, USA
-  Notes: Cancelled
-- Acade: SCELCapalooza
-  Annou: https://www.scelc.org/news/scelcapalooza-2020-canceled
-  Dates: March 11-13, 2020
   Locat: Los Angeles, CA, USA
   Notes: Cancelled
 - Acade: SoCal BOOM
@@ -632,20 +597,10 @@
   Dates: March 21, 2020
   Locat: Los Angeles, CA, USA
   Notes: Postponed until Fall 2020, dates TBD
-- Acade: Southern Society for Philosophy and Psychology
-  Annou: https://www.southernsociety.org/annual-meeting2
-  Dates: March 12-14, 2020
-  Locat: Louisville, KY, USA
-  Notes: Postponed indefinitely
 - Acade: International SBBC Summit
   Annou: https://sbccsummit.dryfta.com/news-and-updates/108-2020-sbcc-summit-postponed
   Dates: March 30-April 4, 2020
   Locat: Marrakech, Morocco
-  Notes: Cancelled
-- Acade: 6th International INTERDROUGHT Symposium.
-  Annou: https://www.interdrought2020.com/home.html
-  Dates: March 9-13, 2020
-  Locat: Mexico City, Mexico
   Notes: Cancelled
 - Acade: Comparative and International Education Society (CIES)
   Annou: https://cies2020.org/special-announcement/
@@ -684,11 +639,6 @@
   Dates: May 12-14, 2020
   Locat: Moscow, Russia
   Notes: Cancelled
-- Acade: OMREN Technology Summit
-  Annou: http://www.omren.om/ots-cancelation/?lang=en
-  Dates: March 16, 2020
-  Locat: Muscat, Oman
-  Notes: Cancelled
 - Acade: Southern AIS
   Annou: ''
   Dates: March 26-28, 2020
@@ -705,11 +655,6 @@
   Dates: March 19-21, 2020
   Locat: New Orleans, LA USA
   Notes: Cancelled
-- Acade: Human Genetics in NYC
-  Annou: https://www.eventbrite.com/e/9th-human-genetics-in-nyc-conference-tickets-83817746135
-  Dates: March 24, 2020
-  Locat: 'New York, NY, USA '
-  Notes: Cancelled/Rescheduled for the fall
 - Acade: Association for the Study of Nationalities
   Annou: https://nationalities.org/news-archive/cancellation-of-the-2020-convention
   Dates: May 7-9, 2020
@@ -720,6 +665,11 @@
   Dates: April 4-5, 2020
   Locat: 'New York, NY, USA '
   Notes: Postponed until Oct. 10-11, 2020
+- Acade: Human Genetics in NYC
+  Annou: https://www.eventbrite.com/e/9th-human-genetics-in-nyc-conference-tickets-83817746135
+  Dates: March 24, 2020
+  Locat: 'New York, NY, USA '
+  Notes: Cancelled/Rescheduled for the fall
 - Acade: 'Kitcherfest: A Conference in Honor of Philip Kitcher'
   Annou: '?'
   Dates: May 1-2, 2020
@@ -802,11 +752,6 @@
   Dates: March 20-22, 2020
   Locat: Reston, VA, USA
   Notes: Cancelled
-- Acade: The Society for California Archaeology
-  Annou: https://m.facebook.com/SCAHome/
-  Dates: March 12-15, 2020
-  Locat: Riverside, CA, USA
-  Notes: postponed tentatively to Aug 29-31
 - Acade: Celtic Studies Association of North America
   Annou: ' '
   Dates: April 2-4, 2020
@@ -857,14 +802,9 @@
   Dates: March 18-19, 2020
   Locat: San Antonio, TX, USA
   Notes: Cancelled
-- Acade: American Council on Education (ACE)
-  Annou: https://www.acenet.edu/News-Room/Pages/ACE2020-Canceled-in-Response-to-Widening-Coronavirus-Outbreak.aspx
-  Dates: March 14-16, 2020
-  Locat: San Diego, CA, USA
-  Notes: Cancelled
-- Acade: Association of Collegiate Schools of Architecture (ACSA) Annual Meeting
-  Annou: https://www.acsa-arch.org/2020/03/07/acsa108-travel-update-a-message-regarding-covid-19/
-  Dates: March 11-14, 2020
+- Acade: American Association for Cancer Research
+  Annou: https://www.aacr.org/meeting/aacr-annual-meeting-2020/coronavirus-information/
+  Dates: April 24-29, 2020
   Locat: San Diego, CA, USA
   Notes: Cancelled
 - Acade: Coalition for Networked Information Spring 2020 Membership Meeting
@@ -873,6 +813,11 @@
   Locat: San Diego, CA, USA
   Notes: physical meeting canceled; virtual meeting to occur from March 30 to May
     30.
+- Acade: Experimental Biology
+  Annou: https://experimentalbiology.org/2020/Coronavirus-Update/Coronavirus-Official-Statement.aspx
+  Dates: April 4-7, 2020
+  Locat: San Diego, CA, USA
+  Notes: Cancelled
 - Acade: National Postdoctoral Association Meeting
   Annou: https://www.nationalpostdoc.org/news/491708/NPA-Annual-Conference-Coronavirus-COVID-19-Update.htm
   Dates: March 27-29, 2020
@@ -894,26 +839,16 @@
   Dates: March 19-21, 2020
   Locat: San Diego, CA, USA
   Notes: Cancelled
-- Acade: American Association for Cancer Research
-  Annou: https://www.aacr.org/meeting/aacr-annual-meeting-2020/coronavirus-information/
-  Dates: April 24-29, 2020
-  Locat: San Diego, CA, USA
-  Notes: Cancelled
-- Acade: Experimental Biology
-  Annou: https://experimentalbiology.org/2020/Coronavirus-Update/Coronavirus-Official-Statement.aspx
-  Dates: April 4-7, 2020
-  Locat: San Diego, CA, USA
-  Notes: Cancelled
-- Acade: ENDO 2020 (Endocrine Society)
-  Annou: https://www.endocrine.org/endo2020/hotel-and-travel/covid-19-updates-and-resources
-  Dates: March 28-31, 2020
-  Locat: San Francisco, CA, USA
-  Notes: Cancelled
 - Acade: American Educational Research Association
   Annou: https://www.aera20.net/
   Dates: April 17-21, 2020
   Locat: San Francisco, CA, USA
   Notes: Planning for a virtual meeting instead of in-person
+- Acade: ENDO 2020 (Endocrine Society)
+  Annou: https://www.endocrine.org/endo2020/hotel-and-travel/covid-19-updates-and-resources
+  Dates: March 28-31, 2020
+  Locat: San Francisco, CA, USA
+  Notes: Cancelled
 - Acade: National Council on Measurement in Education.
   Annou: https://www.ncme.org/meetings/annualmeeting2020
   Dates: April 16-20, 2020
@@ -925,16 +860,16 @@
   Dates: April 19-21, 2020
   Locat: San Jose, CA, USA
   Notes: Planning for a virtual meeting instead of in-person
-- Acade: 'Writing for Living: A Conference in Honor of Helene Moglen'
-  Annou: email announcement from Donna Haraway
-  Dates: March 13-14, 2020
-  Locat: Santa Cruz, CA, USA
-  Notes: Cancelled (possibly postponed but TBD)
 - Acade: ISEE Design Institute
   Annou: email to participants and instructors
   Dates: May 1-3, 2020
   Locat: Santa Cruz, CA, USA
   Notes: Cancelled
+- Acade: 'Writing for Living: A Conference in Honor of Helene Moglen'
+  Annou: email announcement from Donna Haraway
+  Dates: March 13-14, 2020
+  Locat: Santa Cruz, CA, USA
+  Notes: Cancelled (possibly postponed but TBD)
 - Acade: Westar Institute Annual Meeting
   Annou: https://www.westarinstitute.org/national-meetings-spring-2020/
   Dates: March 18-21, 2020
@@ -950,6 +885,12 @@
   Dates: April 10-11, 2020
   Locat: Seattle (Bothell), WA, USA
   Notes: Canceled
+- Acade: Association of Clinical Research Professionals Annual Meeting
+  Annou: https://2020.acrpnet.org/
+  Dates: May 1-4, 2020
+  Locat: Seattle, WA, USA
+  Notes: Outcome unclear at this time. "...will not be held as planned in Seattle,
+    May 1-4. Contingency planning is well underway..."
 - Acade: Campus Compact20
   Annou: https://events.compact.org/conference/covid-19
   Dates: March 29-April 1, 2020
@@ -960,20 +901,14 @@
   Dates: March 18-21, 2020
   Locat: Seattle, WA, USA
   Notes: Cancelled
-- Acade: Society of Interventional Radiology
-  Annou: https://www.sirmeeting.org/
-  Dates: March 28-April 2, 2020
-  Locat: Seattle, WA, USA
-  Notes: Cancelled
-- Acade: Association of Clinical Research Professionals Annual Meeting
-  Annou: https://2020.acrpnet.org/
-  Dates: May 1-4, 2020
-  Locat: Seattle, WA, USA
-  Notes: Outcome unclear at this time. "...will not be held as planned in Seattle,
-    May 1-4. Contingency planning is well underway..."
 - Acade: Society of Architectural Historians
   Annou: https://www.sah.org/2020
   Dates: April 29-May 3, 2020
+  Locat: Seattle, WA, USA
+  Notes: Cancelled
+- Acade: Society of Interventional Radiology
+  Annou: https://www.sirmeeting.org/
+  Dates: March 28-April 2, 2020
   Locat: Seattle, WA, USA
   Notes: Cancelled
 - Acade: 2020 Goddard Symposium
@@ -1119,6 +1054,11 @@
   Dates: March 23-25, 2020
   Locat: Valencia, Spain
   Notes: Postponed to November 11-13, 2020 in Valencia, Spain
+- Acade: 'C. L. Davis Foundation Diseases of Aquatic Animals '
+  Annou: http://www.cldavis.org/upcoming.html#244
+  Dates: May 16, 2020
+  Locat: Valencia, Spain
+  Notes: Cancelled
 - Acade: International Conference on Minerals, Metallurgy and Materials
   Annou: https://magnusconferences.com/materials-science/
   Dates: March 23-25, 2020
@@ -1129,26 +1069,21 @@
   Dates: March 15-18, 2020
   Locat: Valencia, Spain
   Notes: Postponed to September 30-October 1 2020
-- Acade: 'C. L. Davis Foundation Diseases of Aquatic Animals '
-  Annou: http://www.cldavis.org/upcoming.html#244
-  Dates: May 16, 2020
-  Locat: Valencia, Spain
-  Notes: Cancelled
 - Acade: Asia-Pacific Association for International Education
   Annou: https://apaie2020.org/
   Dates: March 22-26, 2020
   Locat: Vancouver, Canada
   Notes: Postponed until March 2021
-- Acade: Society for Reproductive Investigation (SRI) Annual Scientific Meeting
-  Annou: https://www.sri-online.org/news-and-announcements/sri-annual-meeting-cancelled
-  Dates: March 10-14, 2020
-  Locat: Vancouver, Canada
-  Notes: Cancelled
 - Acade: Mountain-Pacific Meeting of the Society of Christian Philosophers
   Annou: https://www.twu.ca/postponed-tbd-mountain-pacific-meeting-society-christian-philosophers
   Dates: May 8-9, 2020
   Locat: Vancouver, Canada
   Notes: Postponed, date TBD
+- Acade: Society for Reproductive Investigation (SRI) Annual Scientific Meeting
+  Annou: https://www.sri-online.org/news-and-announcements/sri-annual-meeting-cancelled
+  Dates: March 10-14, 2020
+  Locat: Vancouver, Canada
+  Notes: Cancelled
 - Acade: 'ES Summit: Therapeutic Milestones in Parkinson''s Disease'
   Annou: https://www.essummit.org/TherapeuticmilestonesinPD.htm
   Dates: March 18-20, 2020
@@ -1171,11 +1106,6 @@
   Dates: March 23-26, 2020
   Locat: Vienna, Austria (ACV)
   Notes: Postponed to Feb 8-11, 2021
-- Acade: ECR 2020 - European Congress of Radiology
-  Annou: https://www.myesr.org/
-  Dates: March 11-15, 2020
-  Locat: Vienna, Austria (ACV)
-  Notes: "Postponed to July 15\u201319, 2020"
 - Acade: 'Schusterman Center for Israel Studies, Brandeis University, annual conference;
     2020 theme: In Motion: Israeli and Palestinian Arts and Culture'
   Annou: https://www.brandeis.edu/israel-center/in-motion-conference/index.html
@@ -1203,11 +1133,11 @@
   Dates: March 25-27, 2020
   Locat: Washington, DC, USA
   Notes: Cancelled
-- Acade: GURT (Georgetown University Roundtable on Languages and Linguistics)
-  Annou: https://twitter.com/GURoundTable/status/1236319907303866371
-  Dates: March 13-15, 2020
+- Acade: Coalition for Academic Scientific Computation semi-annual meeting
+  Annou: https://casc.org/events/EventDetails.aspx?id=1295970&group=
+  Dates: April 1-3, 2020
   Locat: Washington, DC, USA
-  Notes: Cancelled
+  Notes: Planning a Virtual Membership Meeting
 - Acade: ILMF/ASPRS GeoWeek 2020 - The American Society for Photogrammetry and Remote
     Sensing and the International Lidar Mapping Forum
   Annou: https://conferences.asprs.org/geoweek-2020/
@@ -1245,6 +1175,11 @@
   Dates: April 2-5, 2020
   Locat: Washington, DC, USA
   Notes: Cancelled
+- Acade: Population Association of America
+  Annou: http://www.populationassociation.org/2020/03/13/paa-2020-is-cancelled/
+  Dates: April 22-25, 2020
+  Locat: Washington, DC, USA
+  Notes: Cancelled, March 13, 2020
 - Acade: SAS Global Forum
   Annou: https://www.sas.com/en_us/events/sas-global-forum/announcement.html
   Dates: March 29 - April 1, 2020
@@ -1256,16 +1191,6 @@
   Dates: "March 16\u201318, 2020"
   Locat: Washington, DC, USA
   Notes: Cancelled
-- Acade: Coalition for Academic Scientific Computation semi-annual meeting
-  Annou: https://casc.org/events/EventDetails.aspx?id=1295970&group=
-  Dates: April 1-3, 2020
-  Locat: Washington, DC, USA
-  Notes: Planning a Virtual Membership Meeting
-- Acade: Population Association of America
-  Annou: http://www.populationassociation.org/2020/03/13/paa-2020-is-cancelled/
-  Dates: April 22-25, 2020
-  Locat: Washington, DC, USA
-  Notes: Cancelled, March 13, 2020
 - Acade: Stevens Initiative 2020 Virtual Exchange Forum
   Annou: https://www.stevensinitiative.org/event/2020-virtual-exchange-forum/
   Dates: April 15, 2020
@@ -1291,16 +1216,16 @@
   Dates: March 16-20, 2020
   Locat: Woodlands, The, TX, USA
   Notes: Cancelled
-- Acade: International Geobiology Conference (ICG)
-  Annou: http://www.geobiology.cn/2020meeting/
-  Dates: June 10-13, 2020
-  Locat: Wuhan, China
-  Notes: Postponed to November, dates TBD
 - Acade: 2020 ASIS&T Asia-Pacific Regional Conference
   Annou: https://www.asist.org/chapters/asiapac/events/2020-regional-meeting/
   Dates: May 24-25, 2020
   Locat: Wuhan, China
   Notes: Postponed indefinitely
+- Acade: International Geobiology Conference (ICG)
+  Annou: http://www.geobiology.cn/2020meeting/
+  Dates: June 10-13, 2020
+  Locat: Wuhan, China
+  Notes: Postponed to November, dates TBD
 - Acade: ACM/IEEE Joint Conference on Digital Libraries (JCDL 2020)
   Annou: https://2020.jcdl.org/
   Dates: Moved from 22-23 June to 1-5 August 2020
@@ -1317,12 +1242,26 @@
   Dates: May 8, 2020
   Locat: Zagreb, Croatia
   Notes: Cancelled
-- Acade: 'Annual meeting of the Agriculture, Food, and Human Values Society (AFHVS)
-    and the Association for the Study of Food and Society (ASFS). '
-  Annou: https://afhvs.wildapricot.org/2020-Conference
-  Dates: May 27 -30,2020
-  Locat: Athens, Georgia, GA
-  Notes: Cancelled
+- Acade: ''
+  Annou: ''
+  Dates: ''
+  Locat: ''
+  Notes: ''
+- Acade: ''
+  Annou: ''
+  Dates: ''
+  Locat: ''
+  Notes: ''
+- Acade: ''
+  Annou: ''
+  Dates: ''
+  Locat: ''
+  Notes: ''
+- Acade: ''
+  Annou: ''
+  Dates: ''
+  Locat: ''
+  Notes: ''
 - Acade: 'SEE ALSO: Past Conferences tab'
   Annou: ''
   Dates: ''
